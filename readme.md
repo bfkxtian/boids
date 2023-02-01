@@ -2,7 +2,7 @@
 ## A bird-like simulation, written in JavaScript/Canvas
 
 Craig Reynolds' Boids simulates the flocking behaviour of birds and can provide a fun programming excercise.
-If you want to see a running example, head over to https://benchristian.xyz/posts/boids, or alternatively create a simple webpage with a canvas element (height, width of 800).
+If you want to see a running example, head over to https://benchristian.xyz/posts/boids, or alternatively create a simple webpage with a canvas element (height, width of 800px).
 
 There are some small issues that I may get around to fixing given interest:
 - Game window is hardcoded and does not support resizing.
